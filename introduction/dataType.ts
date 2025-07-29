@@ -58,6 +58,8 @@
 // }
 // someFunction()
 
+
+// never dataType
 function exception(): never {
     throw new Error('Your error message')
 }

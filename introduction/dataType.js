@@ -37,6 +37,7 @@
 //     console.log('Nothing will return from this function.')
 // }
 // someFunction()
+// never dataType
 function exception() {
     throw new Error('Your error message');
 }
